@@ -19,6 +19,14 @@
     }
 }
 
+
+.iso
+{
+  background-image: url('/src/img/iso.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
 /*//..........................................................................................................
 //.....CCCCCC....LLL...........OOOOOO.......SSSSSS....EEEEEEEEEE.......BBBBBBBBB....TTTTTTTTTTNNNNN....NNN..
 //...CCCCCCCCC...LLL.........OOOOOOOOOO...SSSSSSSSS...EEEEEEEEEE.......BBBBBBBBBBB..TTTTTTTTTTNNNNN....NNN..
