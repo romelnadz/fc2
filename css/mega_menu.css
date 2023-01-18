@@ -22,7 +22,7 @@
 
 .iso
 {
-  background-image: url('/src/img/iso.png');
+  background-image: url('https://raw.githubusercontent.com/romelnadz/fc2/e4da1e0ad0490029b9e0b293088fe73c4b17bb17/src/img/iso.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: auto;
